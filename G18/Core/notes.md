@@ -1,0 +1,2 @@
+- string methods
+- round function
