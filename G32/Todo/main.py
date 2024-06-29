@@ -146,10 +146,10 @@ while True:
         save_todo_list(user_list)
     # printing out all the todo items in the owner's todo list
     elif choice == 2:
-    
+        pass
     # option to mark task as done
     elif choice == 3:
-
+        pass
     else:
         print(f"Choice : {choice}")
 
