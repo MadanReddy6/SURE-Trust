@@ -1,4 +1,3 @@
-
 class Todo_Item:
     priority_options = ["High", "Medium", "Low"]
 
@@ -146,9 +145,11 @@ class Todo_List:
 
     # goes to the number and finishes that task
     def finish_todo_item(self, number):
+        pass
     
     # deletes the number item
-    def delete_todo_item(self, number) 
+    def delete_todo_item(self, number):
+        pass
 
 
 sample_items = [
