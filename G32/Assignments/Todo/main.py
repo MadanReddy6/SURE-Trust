@@ -150,6 +150,7 @@ while True:
     # option to mark task as done
     elif choice == 3:
         pass
+    
     else:
         print(f"Choice : {choice}")
 
