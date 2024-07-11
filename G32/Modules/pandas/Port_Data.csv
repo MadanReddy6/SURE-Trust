@@ -1,4 +1,4 @@
-,Country,Port Name,UN Code,Vessels in Port,Departures(Last 24 Hours),Arrivals(Last 24 Hours),Expected Arrivals,Type,Area Local,Area Global,Also known as
+Index,Country,Port Name,UN Code,Vessels in Port,Departures(Last 24 Hours),Arrivals(Last 24 Hours),Expected Arrivals,Type,Area Local,Area Global,Also known as
 0,China,SHANGHAI,CNSHG,2420,1376,1626,644,Port,East China Sea,Central China,"['SHANG HAI', ' YANGSHAN', ' CNSHA', ' CNSGH']"
 1,China,NANTONG,CNNTG,1572,1173,1287,234,Port,East China Sea,Central China,['NAN TONG']
 2,China,CJK,CNCJK,1529,343,370,310,Anchorage,East China Sea,Central China,"['CHANGJIANGKOU', ' CHANGJIANG KOU', ' CJK CN']"
